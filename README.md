@@ -5,4 +5,5 @@
 📝 Here you will find my datasets, dashboards, tools used, and detailed explanations of my projects<br/>
 🤗 Connect with me on [Medium](https://medium.com/@nwanapeace12)<br/>
 Reach me via email (peaceukamaka60@gmail.com)
-![Peace github stats](https://github-stats.vercel.app/api?username=nwana=peace&count_private=true&show-icons=true&theme=radical$hide_rank=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nwana-peace&show_icons=true&theme=radical&count_private=true)
